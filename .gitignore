@@ -8,8 +8,8 @@ nodejs-backend-solved/node_modules
 react-app/build/
 
 # Environment variables
-.env
-**/*.env
+# .env
+# **/*.env
 
 # Python cache
 __pycache__/
@@ -24,7 +24,6 @@ Thumbs.db
 
 # Python virtual environments
 .venv
-.env
 venv
 __pycache__/
 *.pyc
